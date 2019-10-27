@@ -1,0 +1,796 @@
+2018-11-01 11:43:03.761 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 15464 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 11:43:03.764 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 11:43:03.765 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 11:43:13.225 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 10.888 seconds (JVM running for 12.734)
+2018-11-01 11:43:19.030 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 11:43:19.030 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 11:43:19.098 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540091023","openEncypt":"5defac5683973084c621bd35878a59fb","version":"1.0.0","platform":3,"timestamp":1541040199,"deviceId":"E123CE6635B382AFCB5F8DAFD77F292E","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 11:43:19.547 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"参数验证失败","data":null}
+2018-11-01 11:43:19.561 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 11:46:00.292 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 11:46:00.292 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 11:46:00.293 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"064a99320dccd6b2620407db45f7c5af","version":"1.0.0","platform":3,"timestamp":1541040360,"deviceId":"053E96BB4274439DA1A9976F9AFDA9FB","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 11:46:03.400 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"参数验证失败","data":null}
+2018-11-01 11:46:03.401 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:00:35.943 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 15032 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:00:35.947 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:00:35.948 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:00:39.877 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.228 seconds (JVM running for 5.238)
+2018-11-01 12:00:53.547 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:00:53.547 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:00:53.581 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"0e33706d4dd9308a07a4065b6fa11d27","version":"1.0.0","platform":3,"timestamp":1541041253,"deviceId":"535BBB581F90BA3299B66CF8156DC2EE","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:00:53.856 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"参数验证失败","data":null}
+2018-11-01 12:00:53.861 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:14:28.355 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 24044 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:14:28.359 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:14:28.360 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:14:32.253 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.194 seconds (JVM running for 5.137)
+2018-11-01 12:14:38.178 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:14:38.178 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:14:38.216 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"93a2101d610b59b8f8434171fa7b0a13","version":"1.0.0","platform":3,"timestamp":1541042078,"deviceId":"31CF43FC61CA72E9FAFE2716BA43EEF0","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:14:38.515 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:14:38.519 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:27:42.416 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 9004 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:27:42.419 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:27:42.419 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:27:46.345 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.23 seconds (JVM running for 5.086)
+2018-11-01 12:29:39.717 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 9824 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:29:39.721 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:29:39.722 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:29:43.689 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.27 seconds (JVM running for 5.181)
+2018-11-01 12:30:02.335 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:30:02.335 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:30:02.372 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"bcf88f7d06410fe1b0e7f4821a9b19f4","version":"1.0.0","platform":3,"timestamp":1541043002,"deviceId":"DD80341F5F4C18DEBB0CE8FD6273DB90","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:30:02.636 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:30:02.641 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:39:54.649 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 19816 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:39:54.664 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:39:54.664 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:39:58.843 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.488 seconds (JVM running for 5.384)
+2018-11-01 12:40:03.017 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:40:03.017 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:40:03.048 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"565a0cca64d794a4417b0764302c98e2","version":"1.0.0","platform":3,"timestamp":1541043603,"deviceId":"69C5548845087482A9C9CECCC9A014E6","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:40:03.345 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:40:03.345 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:42:02.190 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 11128 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:42:02.190 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:42:02.190 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:42:06.173 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.297 seconds (JVM running for 5.243)
+2018-11-01 12:42:19.219 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:42:19.219 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:42:19.251 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"3344e6593c84794ef75f0f4e15426589","version":"1.0.0","platform":3,"timestamp":1541043739,"deviceId":"B33B946BFC9676584D9B7E394B567DFC","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:42:19.532 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:42:19.532 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 11:49:57.980 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 22208 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 11:49:57.980 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 11:49:57.980 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 11:50:02.085 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.425 seconds (JVM running for 5.372)
+2018-11-01 11:50:09.002 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 11:50:09.002 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 11:50:09.049 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"98358c751fd292097a902f30dc1c5f90","version":"1.0.0","platform":3,"timestamp":1541044209,"deviceId":"CF8E22892A9E01883894FA2EE2DBD16F","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 11:50:09.315 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 11:50:09.330 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 11:50:59.897 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 22208 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 11:50:59.897 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 11:50:59.897 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 11:51:00.928 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 1.063 seconds (JVM running for 64.209)
+2018-11-01 11:51:12.221 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 11:51:12.221 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 11:51:12.221 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"cc3f0dd80f83780c56c067196c6a2bd3","version":"1.0.0","platform":3,"timestamp":1541044272,"deviceId":"8D6E9CB6401BECA10422DB99B5882104","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 11:51:12.393 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 11:51:12.393 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:01:42.268 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 8636 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:01:42.268 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:01:42.268 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:01:46.197 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.246 seconds (JVM running for 5.174)
+2018-11-01 12:02:11.894 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:02:11.894 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:02:11.941 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"cf3bdbedbe941d5360a52c9954fe320c","version":"1.0.0","platform":3,"timestamp":1541044931,"deviceId":"5AD6A0B047E1694FFBBA8B5147D1CC62","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:02:12.207 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:02:12.222 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:04:39.504 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 23328 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:04:39.504 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:04:39.504 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:04:43.758 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.568 seconds (JVM running for 5.572)
+2018-11-01 12:04:46.127 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:04:46.127 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:04:46.174 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"cce43596c1e31587a54b5c1b6d65bae6","version":"1.0.0","platform":3,"timestamp":1541045086,"deviceId":"9628AC1E54D3F0705B29B238E9300001","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:04:46.439 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"cce43596c1e31587a54b5c1b6d65bae6","version":"1.0.0","platform":3,"timestamp":1541045086,"deviceId":"9628AC1E54D3F0705B29B238E9300001","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}=}
+2018-11-01 12:04:46.439 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：%7B%22openChannel%22%3A%22KUAIMENG_TEST%22%2C%22phone%22%3A%2213266822999%22%2C%22openEncypt%22%3A%22cce43596c1e31587a54b5c1b6d65bae6%22%2C%22version%22%3A%221.0.0%22%2C%22platform%22%3A3%2C%22timestamp%22%3A1541045086%2C%22deviceId%22%3A%229628AC1E54D3F0705B29B238E9300001%22%2C%22deviceType%22%3A%22iphone8%22%2C%22netType%22%3A1%2C%22language%22%3A%22CH-CN%22%2C%22channel%22%3A%22szkm%22%2C%22screenSize%22%3A13%7D=
+2018-11-01 12:04:46.486 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 12:04:46.486 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:05:50.328 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 4168 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:05:50.328 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:05:50.328 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:05:54.201 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.465 seconds (JVM running for 5.35)
+2018-11-01 12:05:58.397 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:05:58.397 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:05:58.444 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"2d72401e9c56e3387e5b503da2cbdbba","version":"1.0.0","platform":3,"timestamp":1541045158,"deviceId":"6821962CABEBF0B0B46D3AAC5376BC05","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:05:58.647 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"2d72401e9c56e3387e5b503da2cbdbba","version":"1.0.0","platform":3,"timestamp":1541045158,"deviceId":"6821962CABEBF0B0B46D3AAC5376BC05","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}=}
+2018-11-01 12:05:58.647 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：%7B%22openChannel%22%3A%22KUAIMENG_TEST%22%2C%22phone%22%3A%2213266822999%22%2C%22openEncypt%22%3A%222d72401e9c56e3387e5b503da2cbdbba%22%2C%22version%22%3A%221.0.0%22%2C%22platform%22%3A3%2C%22timestamp%22%3A1541045158%2C%22deviceId%22%3A%226821962CABEBF0B0B46D3AAC5376BC05%22%2C%22deviceType%22%3A%22iphone8%22%2C%22netType%22%3A1%2C%22language%22%3A%22CH-CN%22%2C%22channel%22%3A%22szkm%22%2C%22screenSize%22%3A13%7D=
+2018-11-01 12:05:58.678 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 12:05:58.678 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:06:12.701 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 4168 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:06:12.701 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:06:12.701 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:06:13.777 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 1.123 seconds (JVM running for 24.914)
+2018-11-01 12:06:18.370 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:06:18.370 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:06:18.370 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"24708515c53bc2324b661d45eafe8345","version":"1.0.0","platform":3,"timestamp":1541045178,"deviceId":"EDB9F1E302BC1446CB6812A532CF12DC","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:06:18.464 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:06:18.479 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:10:43.495 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 16476 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:10:43.495 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:10:43.495 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:10:48.077 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.928 seconds (JVM running for 5.879)
+2018-11-01 12:10:51.696 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:10:51.711 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:10:51.758 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"738327dfb1819370b94f96c0e5173e8f","version":"1.0.0","platform":3,"timestamp":1541045451,"deviceId":"A301DD45E4A43724DB955E4A56C5AE48","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:10:52.149 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:10:52.149 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:12:54.831 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 20372 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:12:54.831 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:12:54.831 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:12:58.887 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.368 seconds (JVM running for 5.24)
+2018-11-01 12:13:02.252 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:13:02.252 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:13:02.298 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"2a565de3aff5adc998afac2c770b12d4","version":"1.0.0","platform":3,"timestamp":1541045582,"deviceId":"37D655381E92A7C3CF5C08F976F4FAB5","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:13:02.486 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{}
+2018-11-01 12:13:02.486 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"2a565de3aff5adc998afac2c770b12d4","version":"1.0.0","platform":3,"timestamp":1541045582,"deviceId":"37D655381E92A7C3CF5C08F976F4FAB5","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:13:02.517 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 12:13:02.517 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:17:29.178 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 184 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:17:29.178 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:17:29.178 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:17:33.416 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.556 seconds (JVM running for 5.472)
+2018-11-01 12:17:36.543 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:17:36.543 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:17:36.575 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"2a6795b2800fadb3c037ae00520c0642","version":"1.0.0","platform":3,"timestamp":1541045856,"deviceId":"6AC7484357278A8193C2EA5ECFD0BC44","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:17:36.809 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"2a6795b2800fadb3c037ae00520c0642","version":"1.0.0","platform":3,"timestamp":1541045856,"deviceId":"6AC7484357278A8193C2EA5ECFD0BC44","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}=}
+2018-11-01 12:17:36.809 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：%7B%22openChannel%22%3A%22KUAIMENG_TEST%22%2C%22phone%22%3A%2213266822999%22%2C%22openEncypt%22%3A%222a6795b2800fadb3c037ae00520c0642%22%2C%22version%22%3A%221.0.0%22%2C%22platform%22%3A3%2C%22timestamp%22%3A1541045856%2C%22deviceId%22%3A%226AC7484357278A8193C2EA5ECFD0BC44%22%2C%22deviceType%22%3A%22iphone8%22%2C%22netType%22%3A1%2C%22language%22%3A%22CH-CN%22%2C%22channel%22%3A%22szkm%22%2C%22screenSize%22%3A13%7D=
+2018-11-01 12:17:36.840 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 12:17:36.840 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:54:43.427 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 23112 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:54:43.427 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:54:43.427 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:54:47.417 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.307 seconds (JVM running for 5.215)
+2018-11-01 12:54:52.129 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:54:52.129 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:54:52.176 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"4181ce79e0d1bf65ad94f73118875e7a","version":"1.0.0","platform":3,"timestamp":1541048092,"deviceId":"6BB484FA64F99DE08A3468A597A39332","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:54:52.473 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 12:54:52.488 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:55:14.683 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 23112 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:55:14.683 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:55:14.683 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:55:15.734 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 1.098 seconds (JVM running for 33.523)
+2018-11-01 12:55:23.839 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:55:23.839 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:55:23.855 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"04beb12964bc3faee7c02d42539a07b7","version":"1.0.0","platform":3,"timestamp":1541048123,"deviceId":"0B5AA237C23201024E8A2CB73F6A64D4","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:55:23.886 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"04beb12964bc3faee7c02d42539a07b7","version":"1.0.0","platform":3,"timestamp":1541048123,"deviceId":"0B5AA237C23201024E8A2CB73F6A64D4","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}=}
+2018-11-01 12:55:23.886 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：%7B%22openChannel%22%3A%22KUAIMENG_TEST%22%2C%22phone%22%3A%2213266822999%22%2C%22openEncypt%22%3A%2204beb12964bc3faee7c02d42539a07b7%22%2C%22version%22%3A%221.0.0%22%2C%22platform%22%3A3%2C%22timestamp%22%3A1541048123%2C%22deviceId%22%3A%220B5AA237C23201024E8A2CB73F6A64D4%22%2C%22deviceType%22%3A%22iphone8%22%2C%22netType%22%3A1%2C%22language%22%3A%22CH-CN%22%2C%22channel%22%3A%22szkm%22%2C%22screenSize%22%3A13%7D=
+2018-11-01 12:55:23.886 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 12:55:23.886 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 12:56:40.502 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 23080 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 12:56:40.502 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 12:56:40.502 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 12:56:44.388 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.195 seconds (JVM running for 5.116)
+2018-11-01 12:56:50.868 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 12:56:50.868 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 12:56:50.915 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"539eec08245192bcac3df86f43bafbef","version":"1.0.0","platform":3,"timestamp":1541048210,"deviceId":"52E100737871CD3EB508C06B67A29314","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 12:56:51.118 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"539eec08245192bcac3df86f43bafbef","version":"1.0.0","platform":3,"timestamp":1541048210,"deviceId":"52E100737871CD3EB508C06B67A29314","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}=}
+2018-11-01 12:56:51.118 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：%7B%22openChannel%22%3A%22KUAIMENG_TEST%22%2C%22phone%22%3A%2213266822999%22%2C%22openEncypt%22%3A%22539eec08245192bcac3df86f43bafbef%22%2C%22version%22%3A%221.0.0%22%2C%22platform%22%3A3%2C%22timestamp%22%3A1541048210%2C%22deviceId%22%3A%2252E100737871CD3EB508C06B67A29314%22%2C%22deviceType%22%3A%22iphone8%22%2C%22netType%22%3A1%2C%22language%22%3A%22CH-CN%22%2C%22channel%22%3A%22szkm%22%2C%22screenSize%22%3A13%7D=
+2018-11-01 12:56:51.150 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 12:56:51.150 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 13:05:11.147 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 22948 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 13:05:11.147 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 13:05:11.147 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 13:05:14.987 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.149 seconds (JVM running for 5.018)
+2018-11-01 13:05:30.070 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 13:05:30.086 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 13:05:30.101 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"f457d083006c9ec3bd598857e6efb5b8","version":"1.0.0","platform":3,"timestamp":1541048730,"deviceId":"7CE7C6676C4C9AF604E3F5F5CF665C8A","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 13:05:30.304 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				表单数据：{channel=szkm, deviceId=7CE7C6676C4C9AF604E3F5F5CF665C8A, deviceType=iphone8, language=CH-CN, netType=1, openChannel=KUAIMENG_TEST, openEncypt=f457d083006c9ec3bd598857e6efb5b8, phone=13266822999, platform=3, screenSize=13, timestamp=1541048730, version=1.0.0}
+2018-11-01 13:05:30.304 [http-nio-8244-exec-2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				json数据：openChannel=KUAIMENG_TEST&phone=13266822999&openEncypt=f457d083006c9ec3bd598857e6efb5b8&version=1.0.0&platform=3&timestamp=1541048730&deviceId=7CE7C6676C4C9AF604E3F5F5CF665C8A&deviceType=iphone8&netType=1&language=CH-CN&channel=szkm&screenSize=13
+2018-11-01 13:05:30.336 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"result":"success"}
+2018-11-01 13:05:30.336 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 13:06:11.222 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 15840 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 13:06:11.222 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 13:06:11.222 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 13:06:15.073 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.202 seconds (JVM running for 5.072)
+2018-11-01 13:06:19.997 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 13:06:19.997 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 13:06:20.028 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"7c5188e9f38d06e56edb3f9245b2bafc","version":"1.0.0","platform":3,"timestamp":1541048779,"deviceId":"A1B997642E4B3D6EEE3E7223078C0155","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 13:06:20.356 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 13:06:20.356 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 14:05:31.116 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 21924 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 14:05:31.119 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 14:05:31.120 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 14:05:35.689 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 5.201 seconds (JVM running for 6.193)
+2018-11-01 14:05:40.900 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 14:05:40.900 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 14:05:40.934 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13266822999","openEncypt":"a6e95258bc35aa915fdd6ca9980c59dd","version":"1.0.0","platform":3,"timestamp":1541052340,"deviceId":"969A4ACF8469936F84796CAE0F2EFB81","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 14:05:44.330 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":1,"msg":"成功","data":{"interval":60}}
+2018-11-01 14:05:44.336 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 14:08:52.267 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 14:08:52.267 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 14:08:52.268 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540095548","openEncypt":"04dc2947f6ac0bc7f22c4d19646fc117","version":"1.0.0","platform":3,"timestamp":1541052532,"deviceId":"FACE2106636A0A8BD9C3D4A8415CE76E","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 14:08:52.623 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":1,"msg":"成功","data":{"interval":60}}
+2018-11-01 14:08:52.623 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 14:11:20.101 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 22832 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 14:11:20.105 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 14:11:20.106 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 14:11:24.727 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.994 seconds (JVM running for 5.985)
+2018-11-01 14:11:29.994 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 14:11:29.995 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 14:11:30.034 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540095548","openEncypt":"480098505b19443798d18d91eef24f78","version":"1.0.0","platform":3,"timestamp":1541052690,"deviceId":"103408F22C7E094A7BAAF53B4C94CE81","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 14:11:30.373 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":1,"msg":"成功","data":{"interval":60}}
+2018-11-01 14:11:30.379 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码成功
+2018-11-01 15:31:12.102 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 23856 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 15:31:12.104 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 15:31:12.106 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 15:31:20.583 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 9.189 seconds (JVM running for 11.075)
+2018-11-01 15:41:26.478 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 19564 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 15:41:26.480 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 15:41:26.483 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 15:41:34.776 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.818 seconds (JVM running for 10.088)
+2018-11-01 15:47:02.889 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 7456 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 15:47:02.894 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 15:47:02.900 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 15:47:10.572 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.198 seconds (JVM running for 9.484)
+2018-11-01 15:47:51.755 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 17856 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 15:47:51.757 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 15:47:51.758 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 15:47:59.670 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.535 seconds (JVM running for 9.839)
+2018-11-01 15:49:19.764 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 18516 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 15:49:19.766 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 15:49:19.768 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 15:49:27.735 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.494 seconds (JVM running for 9.799)
+2018-11-01 15:53:15.764 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 2616 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 15:53:15.777 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 15:53:15.779 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 15:53:24.866 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 9.613 seconds (JVM running for 11.006)
+2018-11-01 16:03:34.187 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 18144 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:03:34.190 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:03:34.193 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:03:41.615 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.034 seconds (JVM running for 10.24)
+2018-11-01 16:06:42.649 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 21552 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:06:42.654 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:06:42.658 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:06:49.840 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.049 seconds (JVM running for 9.302)
+2018-11-01 16:09:10.944 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 11828 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:09:10.945 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:09:10.947 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:09:19.453 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 9.056 seconds (JVM running for 10.304)
+2018-11-01 16:12:25.215 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 15052 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:12:25.218 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:12:25.220 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:12:33.331 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.655 seconds (JVM running for 9.969)
+2018-11-01 16:17:54.626 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 16656 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:17:54.633 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:17:54.635 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:18:02.379 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.611 seconds (JVM running for 9.891)
+2018-11-01 16:27:09.732 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 22744 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:27:09.733 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:27:09.737 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:27:18.020 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.9 seconds (JVM running for 10.187)
+2018-11-01 16:45:46.036 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 11380 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:45:46.038 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:45:46.040 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:45:53.867 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.343 seconds (JVM running for 9.647)
+2018-11-01 16:47:53.513 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 14092 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:47:53.515 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:47:53.516 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:48:00.979 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 7.995 seconds (JVM running for 9.329)
+2018-11-01 16:48:01.558 [main] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				test1,b01801bc14c3c9f2b975420ee579a778,1541062081
+2018-11-01 16:51:18.047 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 23012 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:51:18.055 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:51:18.061 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:51:25.728 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.314 seconds (JVM running for 9.754)
+2018-11-01 16:51:59.188 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 15844 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:51:59.192 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:51:59.194 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 16:52:04.208 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 5.381 seconds (JVM running for 6.401)
+2018-11-01 16:52:46.796 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 19884 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:52:46.798 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:52:46.799 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 16:52:51.255 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 5.111 seconds (JVM running for 6.15)
+2018-11-01 16:53:00.540 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 23436 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 16:53:00.543 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 16:53:00.545 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 16:53:07.961 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 7.943 seconds (JVM running for 9.264)
+2018-11-01 16:53:19.583 [http-nio-8244-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-01 16:53:19.611 [http-nio-8244-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: test1(String)
+2018-11-01 16:53:19.673 [http-nio-8244-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-01 16:53:19.676 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 16:53:19.676 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 16:53:19.716 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540095548","openEncypt":"a4fdaf09f3112ec869a7dff2d0f4a945","version":"1.0.0","platform":3,"timestamp":"1541062388","deviceId":"0DF436921523BC3FF3DEC0C005A91E86","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 16:53:20.024 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 16:53:20.031 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 17:02:38.753 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 18240 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:02:38.756 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:02:38.757 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 17:02:43.390 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 5.022 seconds (JVM running for 6.051)
+2018-11-01 17:03:29.363 [http-nio-8244-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-01 17:03:29.383 [http-nio-8244-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: test1(String)
+2018-11-01 17:03:29.396 [http-nio-8244-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-01 17:03:29.400 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码开始
+2018-11-01 17:03:29.400 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 17:03:29.484 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540095548","openEncypt":"2ad029c47b89a045f3885db44c3ffd52","version":"1.0.0","platform":3,"timestamp":"1541062998","deviceId":"F751F0FEC1AD580401C1CEA1CB31A759","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 17:03:29.910 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":2,"msg":"验证失败","data":null}
+2018-11-01 17:03:29.916 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1请求验证码失败
+2018-11-01 17:05:46.210 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 4048 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:05:46.214 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:05:46.215 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 17:05:50.677 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 5.128 seconds (JVM running for 6.113)
+2018-11-01 17:10:55.790 [http-nio-8244-exec-9] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-01 17:10:55.806 [http-nio-8244-exec-9] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: test1(String)
+2018-11-01 17:10:55.820 [http-nio-8244-exec-9] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-01 17:10:55.823 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1发送数据开始
+2018-11-01 17:10:55.823 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 17:12:27.536 [http-nio-8244-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-01 17:12:27.537 [http-nio-8244-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: test1(String)
+2018-11-01 17:12:27.539 [http-nio-8244-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-01 17:12:27.543 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1发送数据开始
+2018-11-01 17:12:27.543 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 17:12:27.611 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540095548","smsCode":"123456","idType":1,"idCardNo":"511322199309242179","realName":"张三","sex":1,"birthday":"748800000","hasSocialSecurity":1,"insId":31,"residenceId":"2","openEncypt":"f09d9ecb4175ac6a56055bc538d486e8","version":"1.0.0","platform":3,"timestamp":1541063547,"deviceId":"F3DECA371633C997887DE29C9542DF43","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 17:12:29.986 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":1,"msg":"成功","data":{"result":1}}
+2018-11-01 17:12:29.993 [thread2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1发送数据成功
+2018-11-01 17:12:30.039 [thread2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==>  Preparing: select sum(`success_count`) as success_count,sum(`fail_count`) as fail_count,channel_id from statistics where channel_id = ? and trans_date = ? 
+2018-11-01 17:12:30.040 [thread2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==> Parameters: test1(String), 2018-11-01(Date)
+2018-11-01 17:12:30.041 [thread2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				<==      Total: 1
+2018-11-01 17:12:30.043 [thread2] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==>  Preparing: replace into statistics ( success_count, channel_id, trans_date ) values ( ?, ?, ? ) 
+2018-11-01 17:12:30.044 [thread2] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==> Parameters: 1(Integer), test1(String), 2018-11-01(Date)
+2018-11-01 17:20:13.210 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 7068 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:20:13.214 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:20:13.216 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-01 17:20:17.812 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.955 seconds (JVM running for 5.948)
+2018-11-01 17:20:35.100 [http-nio-8244-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-01 17:20:35.120 [http-nio-8244-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: test1(String)
+2018-11-01 17:20:35.130 [http-nio-8244-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-01 17:20:35.133 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1发送数据开始
+2018-11-01 17:20:35.133 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				当前线程数1
+2018-11-01 17:20:35.173 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"openChannel":"KUAIMENG_TEST","phone":"13540095548","smsCode":"123456","idType":1,"idCardNo":"511322199309242179","realName":"张三","sex":1,"birthday":"748800000","hasSocialSecurity":1,"insId":31,"residenceId":"2","openEncypt":"2e6e302facbd02d021df369d842086f5","version":"1.0.0","platform":3,"timestamp":1541064035,"deviceId":"8F507311093B12876335BE149B6BACBC","deviceType":"iphone8","netType":1,"language":"CH-CN","channel":"szkm","screenSize":13}
+2018-11-01 17:20:35.509 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"code":1,"msg":"成功","data":{"result":2}}
+2018-11-01 17:20:35.517 [thread1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				用户test1发送数据成功
+2018-11-01 17:20:35.552 [thread1] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==>  Preparing: select sum(`success_count`) as success_count,sum(`fail_count`) as fail_count,channel_id from statistics where channel_id = ? and trans_date = ? 
+2018-11-01 17:20:35.553 [thread1] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==> Parameters: test1(String), 2018-11-01(Date)
+2018-11-01 17:20:35.556 [thread1] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				<==      Total: 1
+2018-11-01 17:20:35.559 [thread1] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==>  Preparing: replace into statistics ( success_count, fail_count, channel_id, trans_date ) values ( ?, ?, ?, ? ) 
+2018-11-01 17:20:35.559 [thread1] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==> Parameters: 1(Integer), 0(Integer), test1(String), 2018-11-01(Date)
+2018-11-01 17:20:35.562 [thread1] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				<==    Updates: 1
+2018-11-01 17:24:23.541 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 19216 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:24:23.544 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:24:23.547 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:24:31.761 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.881 seconds (JVM running for 10.264)
+2018-11-01 17:37:24.401 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 20484 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:37:24.403 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:37:24.407 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:37:32.228 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.349 seconds (JVM running for 9.67)
+2018-11-01 17:38:05.187 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 5772 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:38:05.189 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:38:05.191 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:38:13.564 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.921 seconds (JVM running for 10.321)
+2018-11-01 17:39:04.125 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 15600 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:39:04.129 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:39:04.131 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:39:11.541 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 7.933 seconds (JVM running for 9.367)
+2018-11-01 17:40:15.015 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 11528 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:40:15.017 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:40:15.019 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:40:22.321 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 7.826 seconds (JVM running for 9.061)
+2018-11-01 17:40:22.917 [main] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				null,null,null
+2018-11-01 17:41:14.078 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 22672 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:41:14.080 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:41:14.081 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:41:21.602 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 8.346 seconds (JVM running for 9.605)
+2018-11-01 17:41:49.952 [main] INFO  com.lycoris.TestFunction -
+				Starting TestFunction on カーディナル with PID 6424 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-11-01 17:41:49.954 [main] DEBUG com.lycoris.TestFunction -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 17:41:49.956 [main] INFO  com.lycoris.TestFunction -
+				The following profiles are active: dev
+2018-11-01 17:41:57.286 [main] INFO  com.lycoris.TestFunction -
+				Started TestFunction in 7.823 seconds (JVM running for 9.135)
+2018-11-01 17:41:57.876 [main] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				{"timeStamp":1541065317,"encypt":"75a21b6a1b6bbc26d832d92b824fa6f1","channel":"test1"}
+2018-11-01 17:41:57.877 [main] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				null,null,null
+2018-11-01 19:35:24.659 [main] INFO  com.lycoris.InsuranceapiApplicationTests -
+				Starting InsuranceapiApplicationTests on ���`�ǥ��ʥ� with PID 10452 (started by ���`�ǥ��ʥ� in D:\Project\EclipseEEProject\insuranceapi1.0)
+2018-11-01 19:35:24.659 [main] DEBUG com.lycoris.InsuranceapiApplicationTests -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 19:35:24.659 [main] INFO  com.lycoris.InsuranceapiApplicationTests -
+				The following profiles are active: dev
+2018-11-01 19:35:31.161 [main] INFO  com.lycoris.InsuranceapiApplicationTests -
+				Started InsuranceapiApplicationTests in 7.073 seconds (JVM running for 8.213)
+2018-11-01 19:49:11.975 [main] INFO  com.lycoris.InsuranceapiApplicationTests -
+				Starting InsuranceapiApplicationTests on ���`�ǥ��ʥ� with PID 15536 (started by ���`�ǥ��ʥ� in D:\Project\EclipseEEProject\insuranceapi1.0)
+2018-11-01 19:49:11.991 [main] DEBUG com.lycoris.InsuranceapiApplicationTests -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-01 19:49:11.991 [main] INFO  com.lycoris.InsuranceapiApplicationTests -
+				The following profiles are active: dev
+2018-11-01 19:49:18.557 [main] INFO  com.lycoris.InsuranceapiApplicationTests -
+				Started InsuranceapiApplicationTests in 7.082 seconds (JVM running for 8.25)

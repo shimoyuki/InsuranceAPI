@@ -1,0 +1,80 @@
+2018-10-30 15:01:26.749 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 15036 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:01:26.751 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:01:26.753 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:01:39.455 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 14.417 seconds (JVM running for 17.633)
+2018-10-30 15:04:05.269 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 8264 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:04:05.272 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:04:05.274 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:04:13.228 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 8.472 seconds (JVM running for 9.8)
+2018-10-30 15:16:25.811 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 18592 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:16:25.812 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:16:25.813 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:16:32.919 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.543 seconds (JVM running for 8.691)
+2018-10-30 15:16:50.904 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 14552 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:16:50.906 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:16:50.908 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:16:57.397 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 6.947 seconds (JVM running for 8.052)
+2018-10-30 15:25:23.747 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 18072 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:25:23.750 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:25:23.752 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:25:30.184 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.168 seconds (JVM running for 8.243)
+2018-10-30 15:35:13.091 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 18676 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:35:13.093 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:35:13.094 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:35:19.867 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.201 seconds (JVM running for 8.357)
+2018-10-30 15:51:30.516 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 3912 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:51:30.516 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:51:30.516 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:51:37.288 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.21 seconds (JVM running for 8.347)
+2018-10-30 15:52:38.880 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 20872 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:52:38.880 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:52:38.880 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:52:45.665 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.238 seconds (JVM running for 8.424)
+2018-10-30 15:55:08.501 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 16828 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:55:08.501 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:55:08.501 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:55:14.889 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 6.81 seconds (JVM running for 7.881)
+2018-10-30 15:56:24.786 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 9968 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-30 15:56:24.801 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-30 15:56:24.801 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-30 15:56:31.470 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.099 seconds (JVM running for 8.318)

@@ -1,0 +1,21 @@
+spring:
+  datasource:
+      name: release
+      url: jdbc:mysql://localhost:3306/pafi?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&useSSL=true
+      username: root
+      password: seisou8243
+#  activemq:
+#     broker-url: tcp://localhost:61616
+#     pool:
+#        enabled: false
+#  data:
+#    mongodb:
+#      uri: mongodb://localhost:27017/pafi
+
+#redis:
+#    host: 127.0.0.1
+#    port: 6379
+#    max-idle: 20
+#    max-total: 100
+#    max-wait-millis: 3000
+  

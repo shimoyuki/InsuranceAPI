@@ -1,0 +1,90 @@
+2018-11-07 15:08:22.315 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 23748 (D:\Project\EclipseEEProject\insuranceapi1.0\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi1.0)
+2018-11-07 15:08:22.327 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-07 15:08:22.328 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-07 15:08:30.780 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 9.573 seconds (JVM running for 11.628)
+2018-11-07 15:11:14.737 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-07 15:11:14.751 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: lycoris(String)
+2018-11-07 15:11:14.786 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-07 15:11:14.787 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.UserMapper.insert -
+				==>  Preparing: insert into user (id, channel, password ) values (?, ?, ? ) 
+2018-11-07 15:11:14.788 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.UserMapper.insert -
+				==> Parameters: null, test3(String), 123456(String)
+2018-11-07 15:11:14.823 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.UserMapper.insert -
+				<==    Updates: 1
+2018-11-07 15:11:14.905 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==>  Preparing: select sum(`success_count`) as success_count,sum(`fail_count`) as fail_count,sum(`hide_count`) as hide_count,channel_id from statistics where channel_id = ? 
+2018-11-07 15:11:14.905 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==> Parameters: test3(String)
+2018-11-07 15:11:15.074 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				<==      Total: 1
+2018-11-07 15:11:15.075 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==>  Preparing: replace into statistics ( success_count, fail_count, hide_count, channel_id ) values ( ?, ?, ?, ? ) 
+2018-11-07 15:11:15.076 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==> Parameters: 72(Integer), 10(Integer), 18(Integer), test3(String)
+2018-11-07 15:12:11.078 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 15556 (D:\Project\EclipseEEProject\insuranceapi1.0\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi1.0)
+2018-11-07 15:12:11.081 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-07 15:12:11.081 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-07 15:12:15.479 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.737 seconds (JVM running for 5.783)
+2018-11-07 15:12:26.392 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==>  Preparing: select id, channel, password from user where channel = ? 
+2018-11-07 15:12:26.409 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				==> Parameters: lycoris(String)
+2018-11-07 15:12:26.419 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.UserMapper.selectByChannel -
+				<==      Total: 1
+2018-11-07 15:12:26.421 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.UserMapper.insert -
+				==>  Preparing: insert into user (id, channel, password ) values (?, ?, ? ) 
+2018-11-07 15:12:26.422 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.UserMapper.insert -
+				==> Parameters: null, test3(String), 123456(String)
+2018-11-07 15:12:26.422 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.UserMapper.insert -
+				<==    Updates: 1
+2018-11-07 15:12:26.438 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==>  Preparing: select sum(`success_count`) as success_count,sum(`fail_count`) as fail_count,sum(`hide_count`) as hide_count,channel_id from statistics where channel_id = ? and trans_date = ? 
+2018-11-07 15:12:26.438 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==> Parameters: test3(String), 2018-11-07(Date)
+2018-11-07 15:12:26.439 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				<==      Total: 1
+2018-11-07 15:12:26.441 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==>  Preparing: replace into statistics ( success_count, fail_count, hide_count, channel_id, trans_date ) values ( ?, ?, ?, ?, ? ) 
+2018-11-07 15:12:26.441 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				==> Parameters: 72(Integer), 10(Integer), 18(Integer), test3(String), 2018-11-07(Date)
+2018-11-07 15:12:26.483 [http-nio-8250-exec-1] DEBUG com.lycoris.dao.StatisticsMapper.insertSelective -
+				<==    Updates: 1
+2018-11-07 15:14:35.874 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 22640 (D:\Project\EclipseEEProject\insuranceapi1.0\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi1.0)
+2018-11-07 15:14:35.877 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-07 15:14:35.877 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-07 15:14:40.100 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.592 seconds (JVM running for 5.689)
+2018-11-07 15:15:14.884 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==>  Preparing: select sum(`success_count`) as success_count,sum(`fail_count`) as fail_count,sum(`hide_count`) as hide_count,channel_id from statistics where channel_id = ? and trans_date = ? 
+2018-11-07 15:15:14.898 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==> Parameters: test3(String), 2018-11-07(Date)
+2018-11-07 15:15:14.958 [http-nio-8250-exec-2] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				<==      Total: 1
+2018-11-07 15:15:38.400 [http-nio-8250-exec-3] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==>  Preparing: select sum(`success_count`) as success_count,sum(`fail_count`) as fail_count,sum(`hide_count`) as hide_count,channel_id from statistics where channel_id = ? and trans_date = ? 
+2018-11-07 15:15:38.401 [http-nio-8250-exec-3] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				==> Parameters: test1(String), 2018-11-07(Date)
+2018-11-07 15:15:38.405 [http-nio-8250-exec-3] DEBUG com.lycoris.dao.StatisticsMapper.selectByCITD -
+				<==      Total: 1
+2018-11-07 15:16:25.706 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 2712 (D:\Project\EclipseEEProject\insuranceapi1.0\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi1.0)
+2018-11-07 15:16:25.709 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-11-07 15:16:25.710 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-11-07 15:16:29.826 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.431 seconds (JVM running for 5.404)

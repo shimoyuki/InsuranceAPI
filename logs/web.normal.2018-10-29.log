@@ -1,0 +1,258 @@
+2018-10-29 16:56:00.513 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Starting InsuranceapiApplication on カーディナル with PID 21664 (D:\Project\EclipseEEProject\insuranceapi\target\classes started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 16:56:00.513 [restartedMain] DEBUG com.lycoris.InsuranceapiApplication -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 16:56:00.513 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				The following profiles are active: dev
+2018-10-29 16:56:05.047 [restartedMain] INFO  com.lycoris.InsuranceapiApplication -
+				Started InsuranceapiApplication in 4.837 seconds (JVM running for 5.813)
+2018-10-29 17:09:37.577 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 10860 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:09:37.577 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:09:37.577 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:09:44.926 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.771 seconds (JVM running for 8.941)
+2018-10-29 17:13:26.046 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 5656 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:13:26.046 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:13:26.046 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:13:33.012 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.412 seconds (JVM running for 8.558)
+2018-10-29 17:13:33.340 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:33.704 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:33.704 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:33.814 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:33.861 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:33.861 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:33.976 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.054 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.054 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:34.164 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.210 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.210 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:34.320 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.367 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.367 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:34.476 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.523 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.523 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:34.624 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.670 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.670 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:34.780 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.827 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.827 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:34.936 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:34.970 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:34.970 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:13:35.079 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求开始
+2018-10-29 17:13:35.173 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:13:35.173 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求结束
+2018-10-29 17:15:22.987 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 18184 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:15:23.003 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:15:23.003 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:15:29.900 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.336 seconds (JVM running for 8.432)
+2018-10-29 17:15:33.629 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:33.678 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:33.724 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:33.865 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:34.994 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:35.037 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:35.099 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:35.146 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:35.193 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:15:35.240 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:44.626 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 20656 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:19:44.626 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:19:44.626 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:19:51.074 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 6.87 seconds (JVM running for 8.06)
+2018-10-29 17:19:51.684 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:51.731 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:51.778 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:51.841 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:51.887 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:51.924 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:51.971 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:52.018 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:52.080 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:19:52.127 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:12.808 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 20276 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:21:12.823 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:21:12.823 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:21:19.634 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.226 seconds (JVM running for 8.361)
+2018-10-29 17:21:21.289 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:22.351 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:23.406 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:25.580 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:26.745 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:27.867 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:28.987 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:30.112 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:31.225 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:21:32.348 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:50:54.986 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 10356 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:50:54.986 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:50:54.986 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:51:01.675 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.249 seconds (JVM running for 8.318)
+2018-10-29 17:51:02.432 [task9] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task2] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task5] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task4] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task10] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task8] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task1] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:02.432 [task7] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:05.434 [task3] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:51:11.418 [task6] INFO  com.lycoris.utils.PooledHttpClientUtil -
+				请求URL: http://119.18.231.129:15080/openapi/sms/send.json+  返回状态码：200
+2018-10-29 17:56:17.083 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 24568 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 17:56:17.083 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 17:56:17.083 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 17:56:23.906 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.262 seconds (JVM running for 8.342)
+2018-10-29 18:37:36.788 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 14596 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 18:37:36.788 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 18:37:36.788 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 19:55:57.030 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 5404 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 19:55:57.030 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 19:55:57.030 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 19:56:04.206 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.619 seconds (JVM running for 8.782)
+2018-10-29 19:58:48.955 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 5196 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 19:58:48.955 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 19:58:48.955 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 19:58:55.510 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 6.999 seconds (JVM running for 8.092)
+2018-10-29 20:10:41.526 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 1308 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 20:10:41.526 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 20:10:41.526 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 20:10:48.534 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.445 seconds (JVM running for 8.514)
+2018-10-29 20:20:25.636 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 6052 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 20:20:25.638 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 20:20:25.640 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 20:20:32.554 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.372 seconds (JVM running for 8.515)
+2018-10-29 20:21:40.451 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 14144 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 20:21:40.451 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 20:21:40.451 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 20:21:46.992 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 6.961 seconds (JVM running for 8.017)
+2018-10-29 20:54:22.839 [main] INFO  com.lycoris.TestProperties -
+				Starting TestProperties on カーディナル with PID 18688 (started by カーディナル in D:\Project\EclipseEEProject\insuranceapi)
+2018-10-29 20:54:22.840 [main] DEBUG com.lycoris.TestProperties -
+				Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2018-10-29 20:54:22.843 [main] INFO  com.lycoris.TestProperties -
+				The following profiles are active: dev
+2018-10-29 20:54:29.843 [main] INFO  com.lycoris.TestProperties -
+				Started TestProperties in 7.475 seconds (JVM running for 8.652)

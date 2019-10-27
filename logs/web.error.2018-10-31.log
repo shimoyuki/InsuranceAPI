@@ -1,0 +1,12 @@
+2018-10-31 16:38:57.544 [task1] ERROR com.lycoris.utils.PooledHttpClientUtil -
+				execute post request exception, url:http:localhost:8244/insuranceapi/test, exception:org.apache.http.client.ClientProtocolException: URI does not specify a valid host name: http:localhost:8244/insuranceapi/test, cost time(ms):195
+2018-10-31 17:37:34.898 [task1] ERROR com.lycoris.utils.HttpClientUtil -
+				httpPost failed:HTTP/1.1 500 
+2018-10-31 17:43:16.090 [task1] ERROR com.lycoris.utils.HttpClientUtil -
+				httpPost failed:HTTP/1.1 500 
+2018-10-31 17:44:11.186 [task1] ERROR com.lycoris.utils.HttpClientUtil -
+				httpPost failed:HTTP/1.1 500 
+2018-10-31 17:46:01.640 [task1] ERROR com.lycoris.utils.HttpClientUtil -
+				httpPost failed:HTTP/1.1 500 
+2018-10-31 17:58:24.059 [task1] ERROR com.lycoris.utils.PooledHttpClientUtil -
+				execute post request exception, url:http://127.0.0.1:8244/insuranceapi/test, exception:java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String, cost time(ms):281
